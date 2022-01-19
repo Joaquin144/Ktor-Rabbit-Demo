@@ -1,0 +1,1 @@
+rootProject.name = "com.nitjsr.vibhu.ktor-rabbits"
